@@ -1,10 +1,6 @@
 # Technical Documentation: Advanced React Mechanisms
 ## Portals, Error Boundaries, Keys, and Event Flow
 
-This documentation covers the low-level architectural mechanisms React uses to manage DOM rendering, fault tolerance, and event orchestration.
-
----
-
 ## 1. React Portals
 
 ### Concept Explanation
